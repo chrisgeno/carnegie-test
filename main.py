@@ -30,7 +30,7 @@ def next_problem(student,problems):
                     skills_matched_cnt = skills_matched
                     next_problem = problem
 
-    print(f'The next problem should be: {next_problem} and matches {skills_matched_cnt} the student needs to work on')
+    print(f'The next problem should be: {next_problem} and matches {skills_matched_cnt} skills the student needs to work on')
 
     return next_problem
     

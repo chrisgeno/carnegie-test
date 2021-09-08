@@ -9,7 +9,7 @@
 
 ## <a id="toc-introduction"></a>Introduction: 
 
-This code solution was written using Python 3. 
+This code solution was written using Python 3. Inputs were hardcoded in main.py file under the primary function definition. The heuristic was implemented by simply using list comprehension on an array of problem objects, and a students list of low scoring skills. 
 
 ## <a id="toc-reqs"></a>Required Modules (requirements.txt): 
 
