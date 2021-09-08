@@ -1,3 +1,7 @@
+
+#A basic object to represent a student including a name identifier, 
+#and list of tuples that include skill and score
+
 class Student:
 
 
